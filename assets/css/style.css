@@ -9,33 +9,24 @@ body {
 header {
   width: 1470px;
   height: 100px;
-  background-color: red;
+  background-color: red ;
 }
 
 /* carousel */
 
 /* content */
-
 .left {
-  width: 300px;
-  height: 1000px;
-  background-color: blueviolet;
+  background-color:blue;
+  height: 500px;
+  float: left;
 }
 
-.center {
-  width: 900px;
-  height: 1000px;
+.center{
   background-color: aqua;
+
 }
 
-.right {
-  width: 270px;
-  height: 1000px;
-  background-color: brown;
-}
-
-.footer {
-  width: 1470px;
-  height: 100px;
-  background-color: rebeccapurple;
+.right{
+  background-color: indianred;
+  float :right;
 }
